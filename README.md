@@ -2,5 +2,6 @@
 
 To create image release:
 1. add new images
-2. add them to `images_to_build`
-3. create release on Jenkins builder
+2. create vpi/mpi from them
+3. `tar -czvf release.tgz **/*.vpi`
+4. upload it to github with proper name and target
