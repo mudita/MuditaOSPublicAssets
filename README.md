@@ -31,8 +31,8 @@ This catalog structure was originally taken 'as it is' from MuditaOS repository.
 
 # TOC
 
-* [image](./README.md)
-* [source](./README.md)
+* [image](./image/README.md)
+* [source](./source/README.md)
 
 # endnote
 
