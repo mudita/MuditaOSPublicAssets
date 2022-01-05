@@ -1,5 +1,5 @@
-This is only images repository to create MuditaOS images releases
-=================================================================
+This binary assets repository to create MuditaOS binary assets releases
+======================================================================
 
 # create assets release
 
