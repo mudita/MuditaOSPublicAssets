@@ -22,7 +22,7 @@ fi
 while [[ $# -gt 0 ]]; do
     case $1 in
         "--shortname")
-            SHORTNAME=$1
+            SHORTNAME=$2
             shift
             ;;
         *)
