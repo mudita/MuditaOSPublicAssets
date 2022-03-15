@@ -1,0 +1,25 @@
+{
+    "style": {
+        "default": "dejavu_sans/dejavu_sans_bold_27.mpf",
+        "mediumboldtitle": "dejavu_sans/dejavu_sans_bold_27.mpf",
+        "huge": "dejavu_sans/dejavu_sans_regular_140.mpf",
+        "supersizeme": "dejavu_sans/dejavu_sans_regular_90.mpf",
+        "supersizemelight": "dejavu_sans/dejavu_sans_light_90.mpf",
+        "largelight": "dejavu_sans/dejavu_sans_light_46.mpf",
+        "large": "dejavu_sans/dejavu_sans_regular_46.mpf",
+        "verybiglight": "dejavu_sans/dejavu_sans_light_38.mpf",
+        "verybig": "dejavu_sans/dejavu_sans_regular_38.mpf",
+        "mediumbigbold": "dejavu_sans/dejavu_sans_bold_32.mpf",
+        "bigbold": "dejavu_sans/dejavu_sans_bold_30.mpf",
+        "big": "dejavu_sans/dejavu_sans_regular_30.mpf",
+        "biglight": "dejavu_sans/dejavu_sans_light_30.mpf",
+        "mediumbold": "dejavu_sans/dejavu_sans_bold_27.mpf",
+        "medium": "dejavu_sans/dejavu_sans_regular_27.mpf",
+        "mediumlight": "dejavu_sans/dejavu_sans_light_27.mpf",
+        "smallbold": "dejavu_sans/dejavu_sans_bold_24.mpf",
+        "small": "dejavu_sans/dejavu_sans_regular_24.mpf",
+        "verysmallbold": "dejavu_sans/dejavu_sans_bold_20.mpf",
+        "verysmall": "dejavu_sans/dejavu_sans_regular_20.mpf"
+    }
+}
+
