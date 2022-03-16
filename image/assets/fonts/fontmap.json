@@ -1,4 +1,8 @@
 {
+    "info" : {
+        "default_font_name" : "dejavu_sans_bold_27",
+        "default_font_type_name" : "dejavu_sans"
+    },
     "style": {
         "default": "dejavu_sans/dejavu_sans_bold_27.mpf",
         "mediumboldtitle": "dejavu_sans/dejavu_sans_bold_27.mpf",

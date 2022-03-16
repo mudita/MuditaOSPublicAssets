@@ -33,5 +33,5 @@ while [[ $# -gt 0 ]]; do
     shift
 done
 
-tar -czvf release.tgz **/*.vpi **/*.mpi
+tar -czvf release.tgz **/*.vpi **/*.mpi **/*.json **/*.mpf
 find ./image/assets/audio/${SHORTNAME}/ -iname '*mp3' -exec tar -czvf release_audio.tgz {} +
