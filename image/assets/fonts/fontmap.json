@@ -1,11 +1,10 @@
 {
     "info" : {
-        "default_font_name" : "dejavu_sans_bold_27",
-        "default_font_type_name" : "dejavu_sans"
+        "fallback_font" : "dejavu_sans_bold_27",
+        "default_font": "dejavu_sans_bold_27",
+        "default_font_family" : "dejavu_sans"
     },
     "style": {
-        "default": "dejavu_sans/dejavu_sans_bold_27.mpf",
-        "mediumboldtitle": "dejavu_sans/dejavu_sans_bold_27.mpf",
         "huge": "dejavu_sans/dejavu_sans_regular_140.mpf",
         "supersizeme": "dejavu_sans/dejavu_sans_regular_90.mpf",
         "supersizemelight": "dejavu_sans/dejavu_sans_light_90.mpf",
