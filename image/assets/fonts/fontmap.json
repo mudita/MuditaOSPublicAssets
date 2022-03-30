@@ -5,6 +5,7 @@
         "default_font_family" : "dejavu_sans"
     },
     "style": {
+        "colossal": "dejavu_sans/dejavu_sans_light_200.mpf",
         "huge": "dejavu_sans/dejavu_sans_regular_140.mpf",
         "supersizeme": "dejavu_sans/dejavu_sans_regular_90.mpf",
         "supersizemelight": "dejavu_sans/dejavu_sans_light_90.mpf",
